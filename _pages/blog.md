@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
 title: blog
-nav: true
-nav_order: 1
+description: I occasionally write about research and tech
+nav: false
+nav_order: 3
 pagination:
   enabled: true
   collection: posts

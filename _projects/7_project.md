@@ -2,9 +2,9 @@
 layout: page
 title: project 7
 description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+img: assets/img/7.jpg
+importance: 5
+category: template
 related_publications: true
 ---
 

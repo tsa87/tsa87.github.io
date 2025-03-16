@@ -1,10 +1,11 @@
 ---
 layout: page
 title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+description: with background image
+img: assets/img/9.jpg
+importance: 1
+category: template
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
