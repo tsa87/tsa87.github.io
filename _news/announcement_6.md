@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Generative Flows on Synthetic Pathway for Drug Design" has been accepted as a poster at the AIDrugX workshop at NeurIPS 2024. 
+Our paper "Generative Flows on Synthetic Pathway for Drug Design" has been accepted as a poster at the **AIDrugX workshop at NeurIPS 2024**! 

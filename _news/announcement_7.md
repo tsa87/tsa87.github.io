@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design" has been accepted for publication in TMLR. 
+Our paper "TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design" has been accepted at **TMLR**! 
