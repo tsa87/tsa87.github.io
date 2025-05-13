@@ -395,7 +395,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-compositional-flows-for-3d-molecule-and-synthesis-pathway-co-design-has-been-selected-as-oral-presentation-in-gem-and-ai4mat-workshops-at-iclr-2025",
           title: 'Our paper “Compositional Flows for 3D Molecule and Synthesis Pathway Co-design” has been...',
           description: "",
-          section: "News",},{id: "news-our-paper-compositional-flows-for-3d-molecule-and-synthesis-pathway-co-design-has-been-accepted-at-icml-2025-in-vancouver",
+          section: "News",},{id: "news-our-paper-compositional-flows-for-3d-molecule-and-synthesis-pathway-co-design-has-been-accepted-at-icml-2025-see-you-in-vancouver",
           title: 'Our paper “Compositional Flows for 3D Molecule and Synthesis Pathway Co-design” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
